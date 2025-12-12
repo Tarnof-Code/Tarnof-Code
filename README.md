@@ -9,6 +9,24 @@
 
 ---
 
+## 🎯 Projet Personnel en Cours
+
+### 📱 **ENJOY** - Application SaaS de gestion de colonies de vacances
+*Solution complète pour directeurs de séjours : centralisation de la gestion et communication d'équipe*
+
+- 🏗️ Architecture moderne : API REST Java 21 / Spring Boot 3
+- 📱 Multi-plateforme : Web App (React.js) + Mobile App (React Native)
+- 🎨 Prototypage Figma complet
+- 🗄️ Base de données MySQL relationnelle
+- 🔐 Authentification JWT avec gestion des rôles
+- ✅ CRUD complet et responsive design
+
+**Stack:** Java 21, Spring Boot 3, React.js, React Native, MySQL, JWT, REST API, Figma
+
+🔗 [Backend](https://github.com/Tarnof-Code/enjoyRestApi) | [Frontend Web](https://github.com/Tarnof-Code/enjoyApplicationWeb) | [Frontend Mobile](https://github.com/Tarnof-Code/enjoyAppFront)
+
+---
+
 ## 🚀 Technologies & Compétences
 
 ### Frontend
@@ -39,30 +57,6 @@
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
----
-
-## 🎯 Projet Personnel en Cours
-
-### 📱 **ENJOY** - Application SaaS de gestion de colonies de vacances
-*Solution complète pour directeurs de séjours : centralisation de la gestion et communication d'équipe*
-
-- 🏗️ Architecture moderne : API REST Java 21 / Spring Boot 3
-- 📱 Multi-plateforme : Web App (React.js) + Mobile App (React Native)
-- 🎨 Prototypage Figma complet
-- 🗄️ Base de données MySQL relationnelle complexe
-- 🔐 Authentification JWT avec gestion des rôles
-- ✅ CRUD complet et responsive design
-
-**Stack:** Java 21, Spring Boot 3, React.js, React Native, MySQL, JWT, REST API, Figma
-
-🔗 [Backend](https://github.com/Tarnof-Code/enjoyRestApi) | [Frontend Web](https://github.com/Tarnof-Code/enjoyApplicationWeb) | [Frontend Mobile](https://github.com/Tarnof-Code/enjoyAppFront)
-
----
-
-## 📈 Statistiques
-![Tarnof-Code's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarnof-Code&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarnof-Code&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tarnof-Code&theme=radical)
 
 ---
 
@@ -74,6 +68,11 @@ Issue de **13 ans d'expérience en management** (Directeur d'accueils collectifs
 - 📊 **Gestion de projet** : Pilotage de projets complexes (budgets, planning, 300+ bénéficiaires)
 - 💬 **Communication** : Coordination avec parties prenantes multiples
 - 🎯 **Organisation & Résolution de problèmes** : Élaboration et pilotage de projets stratégiques
+
+
+## 📈 Mes langages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarnof-Code&layout=compact&theme=radical&hide_border=true)
 
 
 
