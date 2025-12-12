@@ -1,4 +1,5 @@
 # 👋 Bonjour, je suis Nicolas TATARINOFF
+*💡 "De directeur d'accueils collectifs de mineurs à développeur : une reconversion où le management d'équipe rencontre l'architecture logicielle."*
 
 ## 💻 Développeur Full Stack Java Spring Boot / Vue.js / React.js
 
@@ -14,7 +15,6 @@
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,10 +46,10 @@
 
 ### 🎯 Développeur Frontend Vue.js | **ADLIN Science** (juin - oct. 2025)
 **Migration technique & Design System**
-- ✅ Migration Vue 2 → Vue 3 avec TypeScript : **+25% de performances**
-- 🎨 Développement de **10+ composants** du design system interne
+- ✅ Migration Vue 2 → Vue 3 avec TypeScript 
+- 🎨 Développement de **composants** du design system interne
 - 🔐 Intégration Keycloak (SSO, templates Freemarker)
-- 🐛 Correction de **20+ bugs** et refactorisation de code legacy
+- 🐛 Correction de **bugs** et refactorisation de code legacy
 - 📐 Redesign complet des pages d'authentification (Figma → Production)
 
 **Stack:** Vue.js 3, TypeScript, Keycloak, Docker, Microservices, GitLab CI/CD
@@ -60,7 +60,7 @@
 **Client: SICEM - Gestion documentaire**
 - 🚀 Développement de **15+ pages** et fonctionnalités métier
 - 🔄 Migration complète ASP.NET → **Java 17 / Vue.js**
-- ⚡ Optimisation JPQL : **-40% temps de réponse**
+- ⚡ Optimisation JPQL
 - 🎯 Développement REST API avec logique métier complexe
 - 👥 Méthodologie Agile avec revues de code hebdomadaires
 
@@ -70,10 +70,10 @@
 
 ### 🧩 Développeur Fullstack Java Spring / Thymeleaf | **ECAM-EPMI** - Projet PICTO (fév. - avr. 2023)
 **Application innovante pour enfants autistes**
-- 🎨 Maquettage UX/UI complet avec Figma (**10+ écrans**)
+- 🎨 Maquettage UX/UI complet avec Figma
 - 🗄️ Modélisation de base de données MySQL normalisée
 - ✨ Interface drag-and-drop intuitive en JavaScript
-- 📝 Algorithme de grammaire française (**300+ règles**)
+- 📝 Algorithme de grammaire française
 
 **Stack:** Java Spring Boot, Thymeleaf, MySQL, JPA/Hibernate, JavaScript
 
@@ -86,21 +86,18 @@
 
 - 🏗️ Architecture moderne : API REST Java 21 / Spring Boot 3
 - 📱 Multi-plateforme : Web App (React.js) + Mobile App (React Native)
-- 🎨 Prototypage Figma complet (**15+ écrans**)
-- 🗄️ Base de données MySQL relationnelle complexe (**12 tables**)
+- 🎨 Prototypage Figma complet
+- 🗄️ Base de données MySQL relationnelle complexe
 - 🔐 Authentification JWT avec gestion des rôles
 - ✅ CRUD complet et responsive design
 
 **Stack:** Java 21, Spring Boot 3, React.js, React Native, MySQL, JWT, REST API, Figma
 
-🔗 [Voir le code](https://github.com/Tarnof-Code/enjoyRestApi) | [Frontend Web](https://github.com/Tarnof-Code/enjoyApplicationWeb) | [Frontend Mobile](https://github.com/Tarnof-Code/enjoyAppFront)
+🔗 [Backend](https://github.com/Tarnof-Code/enjoyRestApi) | [Frontend Web](https://github.com/Tarnof-Code/enjoyApplicationWeb) | [Frontend Mobile](https://github.com/Tarnof-Code/enjoyAppFront)
 
 ---
 
-## 📈 Statistiques GitHub
-
-![Tarnof-Code's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarnof-Code&show_icons=true&theme=radical&hide_border=true)
-
+## 📈 Statistiques
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarnof-Code&layout=compact&theme=radical&hide_border=true)
 
 ---
@@ -146,14 +143,6 @@ Issue de **13 ans d'expérience en management** (Directeur d'accueils collectifs
 
 ---
 
-## 📫 Me Contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-tatarinoff-developpeur-fullstack-java-spring-react-vue-javascript/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarnof@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://unit.link/nicolas-tatarinoff)
-
----
-
 ### 💼 Recherche Active
 
 🎯 **Poste recherché** : Développeur Fullstack Java Spring / Vue.js / React  
@@ -161,6 +150,5 @@ Issue de **13 ans d'expérience en management** (Directeur d'accueils collectifs
 🟢 **Disponibilité** : Immédiate  
 📍 **Localisation** : Île-de-France (présentiel / hybride / remote)
 
----
 
-*💡 "De directeur à développeur : une reconversion où le management d'équipe rencontre l'architecture logicielle."*
+
