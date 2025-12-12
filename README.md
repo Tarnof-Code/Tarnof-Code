@@ -1,5 +1,4 @@
 # 👋 Bonjour, je suis Nicolas TATARINOFF
-*💡 "De directeur d'accueils collectifs de mineurs à développeur : une reconversion où le management d'équipe rencontre l'architecture logicielle."*
 
 ## 💻 Développeur Full Stack Java Spring Boot / Vue.js / React.js
 
