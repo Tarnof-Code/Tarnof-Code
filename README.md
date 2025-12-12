@@ -41,43 +41,6 @@
 
 ---
 
-## 💼 Expérience Professionnelle
-
-### 🎯 Développeur Frontend Vue.js | **ADLIN Science** (juin - oct. 2025)
-**Migration technique & Design System**
-- ✅ Migration Vue 2 → Vue 3 avec TypeScript 
-- 🎨 Développement de **composants** du design system interne
-- 🔐 Intégration Keycloak (SSO, templates Freemarker)
-- 🐛 Correction de **bugs** et refactorisation de code legacy
-- 📐 Redesign complet des pages d'authentification (Figma → Production)
-
-**Stack:** Vue.js 3, TypeScript, Keycloak, Docker, Microservices, GitLab CI/CD
-
----
-
-### 💡 Développeur Fullstack Java Spring / Vue.js | **DIAPASON** - ESN (juin 2023 - mai 2025)
-**Client: SICEM - Gestion documentaire**
-- 🚀 Développement de **15+ pages** et fonctionnalités métier
-- 🔄 Migration complète ASP.NET → **Java 17 / Vue.js**
-- ⚡ Optimisation JPQL
-- 🎯 Développement REST API avec logique métier complexe
-- 👥 Méthodologie Agile avec revues de code hebdomadaires
-
-**Stack:** Java 17, Spring Framework, Vue.js, Oracle, JPA/Hibernate, REST API
-
----
-
-### 🧩 Développeur Fullstack Java Spring / Thymeleaf | **ECAM-EPMI** - Projet PICTO (fév. - avr. 2023)
-**Application innovante pour enfants autistes**
-- 🎨 Maquettage UX/UI complet avec Figma
-- 🗄️ Modélisation de base de données MySQL normalisée
-- ✨ Interface drag-and-drop intuitive en JavaScript
-- 📝 Algorithme de grammaire française
-
-**Stack:** Java Spring Boot, Thymeleaf, MySQL, JPA/Hibernate, JavaScript
-
----
-
 ## 🎯 Projet Personnel en Cours
 
 ### 📱 **ENJOY** - Application SaaS de gestion de colonies de vacances
@@ -97,19 +60,9 @@
 ---
 
 ## 📈 Statistiques
+![Tarnof-Code's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarnof-Code&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarnof-Code&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🎓 Formation
-
-**Concepteur Développeur d'Applications** - *Titre RNCP Niveau 6 (Bac+3/4)*  
-📍 GRETA | sept. 2022 - mai 2023  
-Formation intensive Fullstack Java : Spring Boot, MySQL, Architecture logicielle
-
-**Chef de Projet Web et Mobile** - *Titre RNCP Niveau 6 (Bac+3/4)*  
-📍 LA CAPSULE | mars 2022 - juin 2022  
-Formation intensive Fullstack JavaScript : MERN Stack (MongoDB, Express, React, Node.js)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tarnof-Code&theme=radical)
 
 ---
 
@@ -121,33 +74,6 @@ Issue de **13 ans d'expérience en management** (Directeur d'accueils collectifs
 - 📊 **Gestion de projet** : Pilotage de projets complexes (budgets, planning, 300+ bénéficiaires)
 - 💬 **Communication** : Coordination avec parties prenantes multiples
 - 🎯 **Organisation & Résolution de problèmes** : Élaboration et pilotage de projets stratégiques
-
----
-
-## 🛠️ Méthodologies & Bonnes Pratiques
-
-✅ Agile (Scrum, Kanban)  
-✅ Clean Code & Refactorisation  
-✅ Code Review & Pair Programming  
-✅ Design Patterns  
-✅ Architecture Microservices  
-✅ CI/CD & DevOps
-
----
-
-## 🎸 Centres d'Intérêt
-
-🎵 **Musique** : Guitariste, batteur, pianiste (live & studio)  
-🤸 **Sports** : Gymnastique et futsal
-
----
-
-### 💼 Recherche Active
-
-🎯 **Poste recherché** : Développeur Fullstack Java Spring / Vue.js / React  
-📋 **Type de contrat** : CDI  
-🟢 **Disponibilité** : Immédiate  
-📍 **Localisation** : Île-de-France (présentiel / hybride / remote)
 
 
 
