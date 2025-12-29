@@ -70,9 +70,4 @@ Issue de **13 ans d'expérience en management** (Directeur d'accueils collectifs
 - 🎯 **Organisation & Résolution de problèmes** : Élaboration et pilotage de projets stratégiques
 
 
-## 📈 Mes langages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarnof-Code&layout=compact&theme=radical&hide_border=true)
-
-
 
